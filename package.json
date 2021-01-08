@@ -1,0 +1,23 @@
+{
+  "name": "learning-logger",
+  "version": "1.0.0",
+  "description": "Command line tool that keeps track of what I learned and why I learned what I learned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git add . && git commit -m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterT2000/learning-logger.git"
+  },
+  "author": "PieterT2000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PieterT2000/learning-logger/issues"
+  },
+  "homepage": "https://github.com/PieterT2000/learning-logger#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
